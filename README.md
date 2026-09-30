@@ -32,4 +32,6 @@
 
 MIT License
 
-*注：本程序依赖剪贴板。
+## 其他
+
+程序图标来源：[Yesicon](https://yesicon.app/)
